@@ -28,7 +28,6 @@ mixer.init()
 mixer.music.load("hapvane.wav")
 mixer.music.set_volume(0.1)
 
-# DICS_PIC = [pygame.image.load(os.path.join(f"d{x}.png")) for x in range(1, 5)]
 score = 0
 lives_ = 3
 level = 0
